@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "osx-temperature-sensor": "^1.0.8",
+    "si9n-device": "https://player.si9n.io/npm/si9n-device-2.1.14.tgz",
+    "si9n-sdk": "https://player.si9n.io/npm/si9n-sdk-1.5.0.tgz",
+    "systeminformation": "^5.21.24"
+  }
+}
